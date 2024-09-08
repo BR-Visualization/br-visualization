@@ -28,6 +28,7 @@ title: "Minutes"
 
 1.  We decided to name the repository linked to our published paper 'brcharts'. We also chose a logo, exploring color choices like red (for risk) and green (for benefit). Additionally, we're considering a non-hexagonal shape for our group's logo and plan to explore the CVD color palette for further inspiration.
 
+::: {#fig-candidates layout-ncol=5}
 ![**Selected**](images/options1.png)
 
 ![**Other candidate 1**](images/options2.png)
@@ -37,6 +38,10 @@ title: "Minutes"
 ![**Other candidate 3**](images/option5.png)
 
 ![**Other candidate 4**](images/option4.png)
+
+:::
+
+
 
 **Action**: Create brcharts logo
 
