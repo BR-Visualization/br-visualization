@@ -1,16 +1,86 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "br-visualization",
+    "objectID": "minutes.html",
+    "href": "minutes.html",
+    "title": "Minutes",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Working Group Name and Logo\n\nDiscuss and finalize the name\nChoose a Hex sticker image\n\nCommunication\n\nSet up a Slack channel\n\nNext Steps\n\nInviting collaborators\nDiscuss the upcoming manuscript\nDecide whether to open a repository for BR specifications and chart creation\n\n\n\n\n\n\nWe decided to name the repository linked to our published paper ‘brcharts’. We also chose a logo, exploring color choices like red (for risk) and green (for benefit). Additionally, we’re considering a non-hexagonal shape for our group’s logo and plan to explore the CVD color palette for further inspiration.\n\n\n\n\nSelected\n\n\n\n\n\nOther candidate 1\n\n\n\n\n\nOther candidate 2\n\n\n\n\n\nOther candidate 3\n\n\n\n\n\nOther candidate 4\n\n\nAction: Create brcharts logo\nDue: EOM\nAssigned: All\n\nSlack Channel: A Slack channel has been created and members invited. The group will assess its efficiency after three months.\n\nAction: Use channel\nDue: Review channel - Dec 2024\nAssigned: All\n\nNext Steps: The group plans to initially invite a select group to review the ‘brcharts’ work and provide feedback. This discussion will help set the stage for the third phase, writing the sequel manuscript to ‘brcharts’. The group is not yet open for public BR specification submissions.\n\nAction: Invite collaborators\nDue: Oct-2024\nAssigned: All\n\n\n\n——– copy below and paste above, then update accordingly ———"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "minutes.html#sep2024",
+    "href": "minutes.html#sep2024",
+    "title": "Minutes",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Working Group Name and Logo\n\nDiscuss and finalize the name\nChoose a Hex sticker image\n\nCommunication\n\nSet up a Slack channel\n\nNext Steps\n\nInviting collaborators\nDiscuss the upcoming manuscript\nDecide whether to open a repository for BR specifications and chart creation\n\n\n\n\n\n\nWe decided to name the repository linked to our published paper ‘brcharts’. We also chose a logo, exploring color choices like red (for risk) and green (for benefit). Additionally, we’re considering a non-hexagonal shape for our group’s logo and plan to explore the CVD color palette for further inspiration.\n\n\n\n\nSelected\n\n\n\n\n\nOther candidate 1\n\n\n\n\n\nOther candidate 2\n\n\n\n\n\nOther candidate 3\n\n\n\n\n\nOther candidate 4\n\n\nAction: Create brcharts logo\nDue: EOM\nAssigned: All\n\nSlack Channel: A Slack channel has been created and members invited. The group will assess its efficiency after three months.\n\nAction: Use channel\nDue: Review channel - Dec 2024\nAssigned: All\n\nNext Steps: The group plans to initially invite a select group to review the ‘brcharts’ work and provide feedback. This discussion will help set the stage for the third phase, writing the sequel manuscript to ‘brcharts’. The group is not yet open for public BR specification submissions.\n\nAction: Invite collaborators\nDue: Oct-2024\nAssigned: All\n\n\n\n——– copy below and paste above, then update accordingly ———"
+  },
+  {
+    "objectID": "minutes.html#ddmmmyyyy",
+    "href": "minutes.html#ddmmmyyyy",
+    "title": "Minutes",
+    "section": "ddmmmyyyy",
+    "text": "ddmmmyyyy\n\nAgenda :\n\nitem 1\nitem 2\netc…\n\n\n\nActions/Issues & Timelines :\n\naction/issue 1 & planned due date\naction/issue 2 & planned due date\netc…\n\n\n\nOther Notes or Actions :\n\nadd any other business here\netc…"
+  },
+  {
+    "objectID": "aboutus.html",
+    "href": "aboutus.html",
+    "title": "About Us",
+    "section": "",
+    "text": "add mini-bio here"
+  },
+  {
+    "objectID": "aboutus.html#chen-chen",
+    "href": "aboutus.html#chen-chen",
+    "title": "About Us",
+    "section": "",
+    "text": "add mini-bio here"
+  },
+  {
+    "objectID": "aboutus.html#mike-collopy",
+    "href": "aboutus.html#mike-collopy",
+    "title": "About Us",
+    "section": "Mike Collopy",
+    "text": "Mike Collopy\nadd mini-bio here"
+  },
+  {
+    "objectID": "aboutus.html#abigail-mabe",
+    "href": "aboutus.html#abigail-mabe",
+    "title": "About Us",
+    "section": "Abigail Mabe",
+    "text": "Abigail Mabe\nadd mini-bio here"
+  },
+  {
+    "objectID": "aboutus.html#lovemore-gakava",
+    "href": "aboutus.html#lovemore-gakava",
+    "title": "About Us",
+    "section": "Lovemore Gakava",
+    "text": "Lovemore Gakava\nadd mini-bio here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Br-visualization Working Group Site",
+    "section": "",
+    "text": "Clear and accessible BR visualizations have the potential to transform the way we evaluate new interventions, leading to more informed decision-making in healthcare and ultimately improving patient outcomes. Our working group is committed to making a real-world impact by championing the creation and dissemination of BR visualizations, supporting the adoption of sBRA best practices, and fostering an engaged and informed sBRA community.\n\n\n\nOur mission is to promote the creation and dissemination of BR visualizations, foster the adoption of best practices in the execution of the sBRA framework, and stimulate conversation within the sBRA community."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Welcome to the Br-visualization Working Group Site",
+    "section": "",
+    "text": "Clear and accessible BR visualizations have the potential to transform the way we evaluate new interventions, leading to more informed decision-making in healthcare and ultimately improving patient outcomes. Our working group is committed to making a real-world impact by championing the creation and dissemination of BR visualizations, supporting the adoption of sBRA best practices, and fostering an engaged and informed sBRA community."
+  },
+  {
+    "objectID": "index.html#mission",
+    "href": "index.html#mission",
+    "title": "Welcome to the Br-visualization Working Group Site",
+    "section": "",
+    "text": "Our mission is to promote the creation and dissemination of BR visualizations, foster the adoption of best practices in the execution of the sBRA framework, and stimulate conversation within the sBRA community."
+  },
+  {
+    "objectID": "minutes.html#template-for-upcoming-meetings",
+    "href": "minutes.html#template-for-upcoming-meetings",
+    "title": "Minutes",
+    "section": "Template for upcoming meetings :",
+    "text": "Template for upcoming meetings :"
   }
 ]
