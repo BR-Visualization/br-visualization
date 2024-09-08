@@ -1,0 +1,87 @@
+---
+title: "Minutes"
+---
+
+## 03Sep2024
+
+#### Agenda
+
+1.  **Working Group Name and Logo**
+
+    -   Discuss and finalize the name
+
+    -   Choose a Hex sticker image
+
+2.  **Communication**
+
+    -   Set up a Slack channel
+
+3.  **Next Steps**
+
+    -   Inviting collaborators
+
+    -   Discuss the upcoming manuscript
+
+    -   Decide whether to open a repository for BR specifications and chart creation
+
+### Actions/Issues & Timelines :
+
+1.  We decided to name the repository linked to our published paper 'brcharts'. We also chose a logo, exploring color choices like red (for risk) and green (for benefit). Additionally, we're considering a non-hexagonal shape for our group's logo and plan to explore the CVD color palette for further inspiration.
+
+![**Selected**](images/options1.png)
+
+![**Other candidate 1**](images/options2.png)
+
+![**Other candidate 2**](images/options3.png)
+
+![**Other candidate 3**](images/option5.png)
+
+![**Other candidate 4**](images/option4.png)
+
+**Action**: Create brcharts logo
+
+**Due**: EOM
+
+**Assigned**: All
+
+2.  **Slack Channel:** A Slack channel has been created and members invited. The group will assess its efficiency after three months.
+
+**Action**: Use channel
+
+**Due**: Review channel - Dec 2024
+
+**Assigned**: All
+
+2.  Next Steps: The group plans to initially invite a select group to review the 'brcharts' work and provide feedback. This discussion will help set the stage for the third phase, writing the sequel manuscript to 'brcharts'. The group is not yet open for public BR specification submissions.
+
+**Action**: Invite collaborators
+
+**Due**: Oct-2024
+
+**Assigned**: All
+
+### Other actions :
+
+-------- copy below and paste above, then update accordingly ---------
+
+## Template for upcoming meetings :
+
+## ddmmmyyyy
+
+#### Agenda :
+
+1.  item 1
+2.  item 2
+3.  etc...
+
+#### Actions/Issues & Timelines :
+
+1.  action/issue 1 & planned due date
+2.  action/issue 2 & planned due date
+3.  etc...
+
+#### Other Notes or Actions :
+
+-   add any other business here
+
+-   etc...
