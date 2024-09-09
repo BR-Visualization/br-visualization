@@ -4,7 +4,6 @@ title: ""
 
 # **Welcome to the Br-visualization Working Group Site**
 
-
 ## Background
 
 Clear and accessible BR visualizations have the potential to transform the way we evaluate new interventions, leading to more informed decision-making in healthcare and ultimately improving patient outcomes. Our working group is committed to making a real-world impact by championing the creation and dissemination of BR visualizations, supporting the adoption of sBRA best practices, and fostering an engaged and informed sBRA community.

@@ -10,6 +10,9 @@ website:
         text: Home
       - minutes.qmd
       - aboutus.qmd
+  site-url: "https://br-visualization.github.io/br-visualization/"
+  repo-url: "https://github.com/BR-Visualization/br-visualization"
+  repo-actions: [edit, issue]
 
 format:
   html:
